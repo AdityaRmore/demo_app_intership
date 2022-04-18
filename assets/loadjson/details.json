@@ -1,0 +1,513 @@
+{
+  "type": "Container",
+  "alignment": null,
+  "padding": null,
+  "color": null,
+  "margin": null,
+  "constraints": {
+    "minWidth": 333.3333333333333,
+    "maxWidth": 333.3333333333333,
+    "minHeight": 0,
+    "maxHeight": 9999999999
+  },
+  "child": {
+    "type": "Column",
+    "crossAxisAlignment": "center",
+    "mainAxisAlignment": "center",
+    "mainAxisSize": "max",
+    "textBaseline": "ideographic",
+    "textDirection": null,
+    "verticalDirection": "down",
+    "children": [
+      {
+        "type": "Container",
+        "alignment": null,
+        "padding": null,
+        "color": null,
+        "margin": null,
+        "constraints": null,
+        "child": {
+          "type": "Center",
+          "widthFactor": null,
+          "heightFactor": null,
+          "child": {
+            "type": "Text",
+            "data": "Report",
+            "textAlign": "start",
+            "overflow": "ellipsis",
+            "maxLines": null,
+            "semanticsLabel": null,
+            "softWrap": null,
+            "textDirection": "ltr",
+            "style": {
+              "color": "ff000000",
+              "debugLabel": null,
+              "decoration": "none",
+              "fontSize": 25,
+              "fontFamily": null,
+              "fontStyle": "normal",
+              "fontWeight": "normal"
+            },
+            "textScaleFactor": null
+          }
+        }
+      },
+      {
+        "type": "SizedBox",
+        "width": null,
+        "height": 40,
+        "child": null
+      },
+      {
+        "type": "Padding",
+        "padding": "0,10,0,10",
+        "child": {
+          "type": "Row",
+          "crossAxisAlignment": "center",
+          "mainAxisAlignment": "start",
+          "mainAxisSize": "max",
+          "textBaseline": "ideographic",
+          "textDirection": null,
+          "verticalDirection": "down",
+          "children": [
+            {
+              "type": "Container",
+              "alignment": null,
+              "padding": null,
+              "color": null,
+              "margin": null,
+              "constraints": {
+                "minWidth": 125,
+                "maxWidth": 125,
+                "minHeight": 0,
+                "maxHeight": 9999999999
+              },
+              "child": {
+                "type": "Center",
+                "widthFactor": null,
+                "heightFactor": null,
+                "child": {
+                  "type": "Text",
+                  "data": "Title :",
+                  "textAlign": "start",
+                  "overflow": "ellipsis",
+                  "maxLines": null,
+                  "semanticsLabel": null,
+                  "softWrap": null,
+                  "textDirection": "ltr",
+                  "style": null,
+                  "textScaleFactor": null
+                }
+              }
+            },
+            {
+              "type": "Container",
+              "alignment": null,
+              "padding": null,
+              "color": null,
+              "margin": null,
+              "constraints": {
+                "minWidth": 200,
+                "maxWidth": 200,
+                "minHeight": 0,
+                "maxHeight": 9999999999
+              },
+              "child": {
+                "type": "Center",
+                "widthFactor": null,
+                "heightFactor": null,
+                "child": {
+                  "type": "Text",
+                  "data": "aditya",
+                  "textAlign": "start",
+                  "overflow": "ellipsis",
+                  "maxLines": null,
+                  "semanticsLabel": null,
+                  "softWrap": null,
+                  "textDirection": "ltr",
+                  "style": null,
+                  "textScaleFactor": null
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "Padding",
+        "padding": "0,10,0,10",
+        "child": {
+          "type": "Row",
+          "crossAxisAlignment": "center",
+          "mainAxisAlignment": "start",
+          "mainAxisSize": "max",
+          "textBaseline": "ideographic",
+          "textDirection": null,
+          "verticalDirection": "down",
+          "children": [
+            {
+              "type": "Container",
+              "alignment": null,
+              "padding": null,
+              "color": null,
+              "margin": null,
+              "constraints": {
+                "minWidth": 125,
+                "maxWidth": 125,
+                "minHeight": 0,
+                "maxHeight": 9999999999
+              },
+              "child": {
+                "type": "Center",
+                "widthFactor": null,
+                "heightFactor": null,
+                "child": {
+                  "type": "Text",
+                  "data": "Description :",
+                  "textAlign": "start",
+                  "overflow": "ellipsis",
+                  "maxLines": null,
+                  "semanticsLabel": null,
+                  "softWrap": null,
+                  "textDirection": "ltr",
+                  "style": null,
+                  "textScaleFactor": null
+                }
+              }
+            },
+            {
+              "type": "Container",
+              "alignment": null,
+              "padding": null,
+              "color": null,
+              "margin": null,
+              "constraints": {
+                "minWidth": 200,
+                "maxWidth": 200,
+                "minHeight": 0,
+                "maxHeight": 9999999999
+              },
+              "child": {
+                "type": "Center",
+                "widthFactor": null,
+                "heightFactor": null,
+                "child": {
+                  "type": "Text",
+                  "data": "more",
+                  "textAlign": "start",
+                  "overflow": "ellipsis",
+                  "maxLines": null,
+                  "semanticsLabel": null,
+                  "softWrap": null,
+                  "textDirection": "ltr",
+                  "style": null,
+                  "textScaleFactor": null
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "Padding",
+        "padding": "0,10,0,10",
+        "child": {
+          "type": "Row",
+          "crossAxisAlignment": "center",
+          "mainAxisAlignment": "start",
+          "mainAxisSize": "max",
+          "textBaseline": "ideographic",
+          "textDirection": null,
+          "verticalDirection": "down",
+          "children": [
+            {
+              "type": "Container",
+              "alignment": null,
+              "padding": null,
+              "color": null,
+              "margin": null,
+              "constraints": {
+                "minWidth": 125,
+                "maxWidth": 125,
+                "minHeight": 0,
+                "maxHeight": 9999999999
+              },
+              "child": {
+                "type": "Center",
+                "widthFactor": null,
+                "heightFactor": null,
+                "child": {
+                  "type": "Text",
+                  "data": "Text :",
+                  "textAlign": "start",
+                  "overflow": "ellipsis",
+                  "maxLines": null,
+                  "semanticsLabel": null,
+                  "softWrap": null,
+                  "textDirection": "ltr",
+                  "style": null,
+                  "textScaleFactor": null
+                }
+              }
+            },
+            {
+              "type": "Container",
+              "alignment": null,
+              "padding": null,
+              "color": null,
+              "margin": null,
+              "constraints": {
+                "minWidth": 200,
+                "maxWidth": 200,
+                "minHeight": 0,
+                "maxHeight": 9999999999
+              },
+              "child": {
+                "type": "Center",
+                "widthFactor": null,
+                "heightFactor": null,
+                "child": {
+                  "type": "Text",
+                  "data": "Hiiii",
+                  "textAlign": "start",
+                  "overflow": "ellipsis",
+                  "maxLines": null,
+                  "semanticsLabel": null,
+                  "softWrap": null,
+                  "textDirection": "ltr",
+                  "style": null,
+                  "textScaleFactor": null
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "Padding",
+        "padding": "0,10,0,10",
+        "child": {
+          "type": "Row",
+          "crossAxisAlignment": "center",
+          "mainAxisAlignment": "start",
+          "mainAxisSize": "max",
+          "textBaseline": "ideographic",
+          "textDirection": null,
+          "verticalDirection": "down",
+          "children": [
+            {
+              "type": "Container",
+              "alignment": null,
+              "padding": null,
+              "color": null,
+              "margin": null,
+              "constraints": {
+                "minWidth": 125,
+                "maxWidth": 125,
+                "minHeight": 0,
+                "maxHeight": 9999999999
+              },
+              "child": {
+                "type": "Center",
+                "widthFactor": null,
+                "heightFactor": null,
+                "child": {
+                  "type": "Text",
+                  "data": "Url :",
+                  "textAlign": "start",
+                  "overflow": "ellipsis",
+                  "maxLines": null,
+                  "semanticsLabel": null,
+                  "softWrap": null,
+                  "textDirection": "ltr",
+                  "style": null,
+                  "textScaleFactor": null
+                }
+              }
+            },
+            {
+              "type": "Container",
+              "alignment": null,
+              "padding": null,
+              "color": null,
+              "margin": null,
+              "constraints": {
+                "minWidth": 200,
+                "maxWidth": 200,
+                "minHeight": 0,
+                "maxHeight": 9999999999
+              },
+              "child": {
+                "type": "Center",
+                "widthFactor": null,
+                "heightFactor": null,
+                "child": {
+                  "type": "Text",
+                  "data": "https://ad.more",
+                  "textAlign": "start",
+                  "overflow": "ellipsis",
+                  "maxLines": null,
+                  "semanticsLabel": null,
+                  "softWrap": null,
+                  "textDirection": "ltr",
+                  "style": null,
+                  "textScaleFactor": null
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "Padding",
+        "padding": "0,10,0,10",
+        "child": {
+          "type": "Row",
+          "crossAxisAlignment": "center",
+          "mainAxisAlignment": "start",
+          "mainAxisSize": "max",
+          "textBaseline": "ideographic",
+          "textDirection": null,
+          "verticalDirection": "down",
+          "children": [
+            {
+              "type": "Container",
+              "alignment": null,
+              "padding": null,
+              "color": null,
+              "margin": null,
+              "constraints": {
+                "minWidth": 125,
+                "maxWidth": 125,
+                "minHeight": 0,
+                "maxHeight": 9999999999
+              },
+              "child": {
+                "type": "Center",
+                "widthFactor": null,
+                "heightFactor": null,
+                "child": {
+                  "type": "Text",
+                  "data": "Date :",
+                  "textAlign": "start",
+                  "overflow": "ellipsis",
+                  "maxLines": null,
+                  "semanticsLabel": null,
+                  "softWrap": null,
+                  "textDirection": "ltr",
+                  "style": null,
+                  "textScaleFactor": null
+                }
+              }
+            },
+            {
+              "type": "Container",
+              "alignment": null,
+              "padding": null,
+              "color": null,
+              "margin": null,
+              "constraints": {
+                "minWidth": 200,
+                "maxWidth": 200,
+                "minHeight": 0,
+                "maxHeight": 9999999999
+              },
+              "child": {
+                "type": "Center",
+                "widthFactor": null,
+                "heightFactor": null,
+                "child": {
+                  "type": "Text",
+                  "data": "7/1/2022",
+                  "textAlign": "start",
+                  "overflow": "ellipsis",
+                  "maxLines": null,
+                  "semanticsLabel": null,
+                  "softWrap": null,
+                  "textDirection": "ltr",
+                  "style": null,
+                  "textScaleFactor": null
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "Padding",
+        "padding": "0,10,0,10",
+        "child": {
+          "type": "Row",
+          "crossAxisAlignment": "center",
+          "mainAxisAlignment": "start",
+          "mainAxisSize": "max",
+          "textBaseline": "ideographic",
+          "textDirection": null,
+          "verticalDirection": "down",
+          "children": [
+            {
+              "type": "Container",
+              "alignment": null,
+              "padding": null,
+              "color": null,
+              "margin": null,
+              "constraints": {
+                "minWidth": 125,
+                "maxWidth": 125,
+                "minHeight": 0,
+                "maxHeight": 9999999999
+              },
+              "child": {
+                "type": "Center",
+                "widthFactor": null,
+                "heightFactor": null,
+                "child": {
+                  "type": "Text",
+                  "data": "Role :",
+                  "textAlign": "start",
+                  "overflow": "ellipsis",
+                  "maxLines": null,
+                  "semanticsLabel": null,
+                  "softWrap": null,
+                  "textDirection": "ltr",
+                  "style": null,
+                  "textScaleFactor": null
+                }
+              }
+            },
+            {
+              "type": "Container",
+              "alignment": null,
+              "padding": null,
+              "color": null,
+              "margin": null,
+              "constraints": {
+                "minWidth": 200,
+                "maxWidth": 200,
+                "minHeight": 0,
+                "maxHeight": 9999999999
+              },
+              "child": {
+                "type": "Center",
+                "widthFactor": null,
+                "heightFactor": null,
+                "child": {
+                  "type": "Text",
+                  "data": "Student",
+                  "textAlign": "start",
+                  "overflow": "ellipsis",
+                  "maxLines": null,
+                  "semanticsLabel": null,
+                  "softWrap": null,
+                  "textDirection": "ltr",
+                  "style": null,
+                  "textScaleFactor": null
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
